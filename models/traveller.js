@@ -48,14 +48,4 @@ Traveller.prototype.getUniqueModesOfTransport = function () {
 //    return uniqueList;
 // });
 //
-// function removeDuplicates(array) {
-//   let a = []
-//   array.map(x =>
-//     if(!a.includes(x) {
-//       a.push(x)
-//     })
-//   return a
-// };
-
-
 module.exports = Traveller;
